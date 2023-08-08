@@ -102,7 +102,7 @@ Install this project with:
 
 
 ```sh
-  cd -fake-cloth-store
+  cd -first-Github-Pro
   npm install
 ```
 -
@@ -131,7 +131,6 @@ Example command:
 ### Deployment
 
 You can deploy this project using:
- https://leloufadel.github.io/Fake-Cloth-Store/
 
 <!--
 Example:
